@@ -1,0 +1,22 @@
+C:\Users\david\source\repos\Billes_Verden\Billes_Verden\bin\Debug\Billes_Verden.exe.config
+C:\Users\david\source\repos\Billes_Verden\Billes_Verden\bin\Debug\Billes_Verden.exe
+C:\Users\david\source\repos\Billes_Verden\Billes_Verden\bin\Debug\Billes_Verden.pdb
+C:\Users\david\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.Properties.Resources.resources
+C:\Users\david\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.csproj.GenerateResource.cache
+C:\Users\david\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.exe
+C:\Users\david\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.pdb
+C:\Users\david\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.Form1.resources
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\Billes_Verden\Billes_Verden\bin\Debug\Billes_Verden.exe.config
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\Billes_Verden\Billes_Verden\bin\Debug\Billes_Verden.exe
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\Billes_Verden\Billes_Verden\bin\Debug\Billes_Verden.pdb
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.Properties.Resources.resources
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.csproj.GenerateResource.cache
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.exe
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.pdb
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\Billes_Verden\Billes_Verden\obj\Debug\Billes_Verden.WinForm.resources
